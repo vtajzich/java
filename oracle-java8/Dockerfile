@@ -6,7 +6,7 @@
 #
 
 # Pull base image.
-FROM dockerfile/ubuntu
+FROM vtajzich/ubuntu
 
 # Install Java.
 RUN \
